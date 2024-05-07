@@ -2,7 +2,7 @@
 
 ## Workflow
 
-- Using i2OCR[https://www.i2ocr.com/pdf-ocr-chinese-traditional] to 
+- Using [i2OCR](https://www.i2ocr.com/pdf-ocr-chinese-traditional) to 
 
 ## Environment
 
